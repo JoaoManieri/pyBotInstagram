@@ -1,0 +1,12 @@
+Passo 1: Clicar no botao Primerio Click ate ele ficar PRETO
+Passo 2: Dar DUPLO CLICK no botão de comentario
+
+Passo 3: preencher a caixa de texto com o texto que deve ser inserido
+
+Passo 4: preencher a caixa de texto com quantas mensagens devem ser enviadas
+por minuto
+
+Passo 5: Clicar no botao Segundo Click ate ele ficar PRETO
+Passo 6: Dar DUPLO CLICK no botão de Publicar
+
+Passo 7: PLAY :)
